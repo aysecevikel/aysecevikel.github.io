@@ -674,6 +674,7 @@ ul.portfolioContainer{
 	padding:0px;
 	margin-bottom:0;
 	list-style-type:none;
+	
 }
 ul.portfolioContainer li{
 	display:block;
@@ -714,6 +715,7 @@ ul.portfolioContainer li:hover span.hoverBox{
 	visibility:visible;
 	left:0px;
 	bottom: 0px;
+
 	
 	background: rgba(76, 64, 78, 0.9);
 	
